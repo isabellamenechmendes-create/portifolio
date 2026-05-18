@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: aquamarine;
+
+}
+strong{
+    color: aqua;
+}
+.contaimer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
